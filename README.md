@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joaomarcosbs
-- 👀 I’m interested in mobile and front end development and tech in general
+- 👀 I’m interested in mobile and fullstack development and tech in general
 - 🌱 I’m currently learning react native
 - 💞️ I’m looking to collaborate on mobile apps that somehow could help others
 - 📫 To reach me, just send an email to joaomarcosbs@outlook.com ;)
